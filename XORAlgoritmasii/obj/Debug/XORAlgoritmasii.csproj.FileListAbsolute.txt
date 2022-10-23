@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\obj\Debug\XORAlgoritmasii.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\obj\Debug\XORAlgoritmasii.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\bin\Debug\XORAlgoritmasii.exe.config
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\bin\Debug\XORAlgoritmasii.exe
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\bin\Debug\XORAlgoritmasii.pdb
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\obj\Debug\XORAlgoritmasii.exe
+C:\Users\PC\source\repos\XORAlgoritmasii\XORAlgoritmasii\obj\Debug\XORAlgoritmasii.pdb
